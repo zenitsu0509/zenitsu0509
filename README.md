@@ -1,6 +1,10 @@
 # Hi there! 👋 I'm Himanshu Gangwar
 
 <!-- Add your introduction or other information here -->
+# Neural Network Training Visualization
+
+<img src="https://github.com/zenitsu0509/DeepVisionModels/blob/a8e4847494957de289ac960e355b6486652b9b8a/assets/NeuralNetworkTraining%402024-08-29%4015-10-52%20(1).gif" width="800" height="400">
+
 
 ## 📊 GitHub Stats
 
@@ -16,11 +20,11 @@
 
 <!-- Add other sections if you want -->
 - 👋 Hi, I’m @zenitsu0509
-- 👀 I’m interested in Deep Learning, Artifical Inteligence,GenAI and Machine Learning
-- 🌱 I’m currently learning about Neural Networks and Deep Learning concept.
-- 💞️ I’m looking to collaborate on my projects specially on movie recemendation and other too.
+- 👀 I’m interested in Deep Learning, Artificial Intelligence, GenAI, and Machine Learning
+- 🌱 I’m currently learning about Neural Networks and Deep Learning concepts.
+- 💞️ I’m looking to collaborate on my projects, especially on movie recommendation and others too.
 - 📫 How to reach me on <a href="https://www.instagram.com/sanatani.himanshu.gangwar.07/">Instagram</a>
-- ⚡ Fun fact: I am a btech student.
+- ⚡ Fun fact: I am a B.Tech student.
 
 <!---
 zenitsu0509/zenitsu0509 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
