@@ -1,8 +1,6 @@
 # Hi there! 👋 I'm Himanshu Gangwar
 
 <!-- Add your introduction or other information here -->
-# Neural Network Training Visualization
-
 <img src="https://github.com/zenitsu0509/DeepVisionModels/blob/a8e4847494957de289ac960e355b6486652b9b8a/assets/NeuralNetworkTraining%402024-08-29%4015-10-52%20(1).gif" width="800" height="400">
 
 
