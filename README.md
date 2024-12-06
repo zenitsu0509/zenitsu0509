@@ -2,7 +2,7 @@
 
 <!-- Add your introduction or other information here -->
 
-<img src="https://github.com/zenitsu0509/DeepVisionModels/blob/5dcd9ce0bd81c474ebf863978817d17076348973/assets/Screenshot%202024-12-03%20201700.png" width="1700" height="360">
+<img src="https://github.com/zenitsu0509/DeepVisionModels/blob/5dcd9ce0bd81c474ebf863978817d17076348973/assets/Screenshot%202024-12-03%20201700.png" width="1500" height="250">
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <div style="flex: 1; padding-right: 20px;">
