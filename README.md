@@ -1,22 +1,28 @@
 # Hi there! 👋 I'm Himanshu Gangwar
-
-<!-- Add your introduction or other information here -->
-
 <img src="https://github.com/zenitsu0509/DeepVisionModels/blob/5dcd9ce0bd81c474ebf863978817d17076348973/assets/Screenshot%202024-12-03%20201700.png" width="1350" height="250">
+<br/>
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
-  <div style="flex: 1; padding-right: 20px;">
-    - 👋 Hi, I’m @zenitsu0509  
-    - 👀 I’m interested in Deep Learning, Artificial Intelligence, GenAI, and Machine Learning  
-    - 🌱 I’m currently learning about Neural Networks and Deep Learning concepts.  
-    - 💞️ I’m looking to collaborate on my projects, especially on movie recommendation and others too.  
-    - 📫 How to reach me on <a href="https://www.instagram.com/sanatani.himanshu.gangwar.07/">Instagram</a>  
-    - ⚡ Fun fact: I am a B.Tech student.  
-  </div>
-  <div>
-    <img src="https://github.com/zenitsu0509/DeepVisionModels/blob/fe20492aa972cc2ff4d89bd2282bed2e9543e248/assets/boy_coding.jpeg" alt="Boy Coding" width="300" height="300" style="border-radius: 10px;">
-  </div>
-</div>
+<img align="right" alt="coding" width="400"  src="https://github.com/zenitsu0509/DeepVisionModels/blob/fe20492aa972cc2ff4d89bd2282bed2e9543e248/assets/boy_coding.jpeg">
+
+
+- 👋 Hi, I’m @zenitsu0509
+
+- 👀 I’m interested in Deep Learning, Artificial Intelligence, GenAI, and LLMs
+
+- 🌱 I’m currently learning about Neural Networks and Deep Learning concepts.
+  
+- 💞️ I’m looking to collaborate on my projects, especially on movie recommendation and others too.
+
+- 📫 How to reach me on <a href="https://www.instagram.com/sanatani.himanshu.gangwar.07/">Instagram</a>
+  
+- ⚡ Fun fact: I am a B.Tech student.
+
+- 🌍 From **India**
+
+- ❤️ In Love with Coding🖥️
+
+  <br/>
+
 
 
 ## 🌐 Socials:
