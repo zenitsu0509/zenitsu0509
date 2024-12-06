@@ -1,7 +1,8 @@
 # Hi there! 👋 I'm Himanshu Gangwar
 
 <!-- Add your introduction or other information here -->
-<img src="https://github.com/zenitsu0509/DeepVisionModels/blob/a8e4847494957de289ac960e355b6486652b9b8a/assets/NeuralNetworkTraining%402024-08-29%4015-10-52%20(1).gif" width="800" height="400">
+
+<img src="https://github.com/zenitsu0509/DeepVisionModels/blob/5dcd9ce0bd81c474ebf863978817d17076348973/assets/Screenshot%202024-12-03%20201700.png" width="800" height="400">
 
 
 ## 📊 GitHub Stats
