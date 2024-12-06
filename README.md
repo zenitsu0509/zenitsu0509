@@ -2,8 +2,25 @@
 
 <!-- Add your introduction or other information here -->
 
-<img src="https://github.com/zenitsu0509/DeepVisionModels/blob/5dcd9ce0bd81c474ebf863978817d17076348973/assets/Screenshot%202024-12-03%20201700.png" width="800" height="400">
+<img src="https://github.com/zenitsu0509/DeepVisionModels/blob/5dcd9ce0bd81c474ebf863978817d17076348973/assets/Screenshot%202024-12-03%20201700.png" width="1700" height="360">
 
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <div style="flex: 1; padding-right: 20px;">
+    - 👋 Hi, I’m @zenitsu0509  
+    - 👀 I’m interested in Deep Learning, Artificial Intelligence, GenAI, and Machine Learning  
+    - 🌱 I’m currently learning about Neural Networks and Deep Learning concepts.  
+    - 💞️ I’m looking to collaborate on my projects, especially on movie recommendation and others too.  
+    - 📫 How to reach me on <a href="https://www.instagram.com/sanatani.himanshu.gangwar.07/">Instagram</a>  
+    - ⚡ Fun fact: I am a B.Tech student.  
+  </div>
+  <div>
+    <img src="https://github.com/zenitsu0509/DeepVisionModels/blob/fe20492aa972cc2ff4d89bd2282bed2e9543e248/assets/boy_coding.jpeg" alt="Boy Coding" width="300" height="300" style="border-radius: 10px;">
+  </div>
+</div>
+
+
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/ZT4Pmhmn) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sanatani.himansshu.gangwar07) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/himanshu-gangwar-a1b05) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@himanshugangwar0509)
 
 ## 📊 GitHub Stats
 
@@ -17,18 +34,6 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zenitsu0509&layout=compact&theme=radical)
 
-<!-- Add other sections if you want -->
-- 👋 Hi, I’m @zenitsu0509
-- 👀 I’m interested in Deep Learning, Artificial Intelligence, GenAI, and Machine Learning
-- 🌱 I’m currently learning about Neural Networks and Deep Learning concepts.
-- 💞️ I’m looking to collaborate on my projects, especially on movie recommendation and others too.
-- 📫 How to reach me on <a href="https://www.instagram.com/sanatani.himanshu.gangwar.07/">Instagram</a>
-- ⚡ Fun fact: I am a B.Tech student.
-
-<!---
-zenitsu0509/zenitsu0509 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zenitsu0509/zenitsu0509/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zenitsu0509/zenitsu0509/output/github-snake.svg" />
