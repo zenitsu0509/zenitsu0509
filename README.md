@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="35px"> I'm Himanshu Gangwar</h1>
 
-<img align="right" alt="coding" width="400"  src="https://github.com/zenitsu0509/DeepVisionModels/blob/fe20492aa972cc2ff4d89bd2282bed2e9543e248/assets/boy_coding.jpeg">
+<img align="right" alt="coding" width="400"  src="https://github.com/zenitsu0509/DeepVisionModels/blob/79718b7bbb01458fed6bae1cd9e76ab7a9474eba/assets/boy_coding.jpeg">
 
 
 - 👋 Hi, I’m @zenitsu0509
