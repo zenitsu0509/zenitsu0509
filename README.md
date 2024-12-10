@@ -1,27 +1,25 @@
 
-<img src="https://github.com/zenitsu0509/DeepVisionModels/blob/e0f07c42adc06b9949b8b13b30f14dacfe36f80c/assets/Screenshot%202024-12-10%20122957.png" width="1000" height="250">
+<img src="https://github.com/zenitsu0509/DeepVisionModels/blob/e0f07c42adc06b9949b8b13b30f14dacfe36f80c/assets/Screenshot%202024-12-10%20122957.png" width="950" height="250" align="center">
 
 
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="35px"> I'm Himanshu Gangwar</h1>
+<h3 align="center">A Passionate Ai developer | Software Engineer Enthusiast</h3>
 
-<img align="right" alt="coding" width="400"  src="https://github.com/zenitsu0509/DeepVisionModels/blob/79718b7bbb01458fed6bae1cd9e76ab7a9474eba/assets/boy_coding.jpeg">
+<br/>
+
+<img align="right" alt="coding" width="500" height="300"  src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
 
-- 👋 Hi, I’m @zenitsu0509
 
 - 👀 I’m interested in Deep Learning, Artificial Intelligence, GenAI, and LLMs
-
-- 🌱 I’m currently learning about Neural Networks and Deep Learning concepts.
   
 - 💞️ I’m looking to collaborate on my projects
 
-- 📫 How to reach me on <a href="https://www.instagram.com/sanatani.himanshu.gangwar.07/">Instagram</a>
+- 📫 How to reach me<a href="https://www.instagram.com/sanatani.himanshu.gangwar.07/">Instagram</a>
   
 - ⚡ Fun fact: I am a B.Tech student.
 
 - 🌍 From **India**
-
-- ❤️ In Love with Coding🖥️
 
   <br/>
 
@@ -30,7 +28,10 @@
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/sanatani.himanshu.gangwar.07/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshu-gangwar-a1b05a294/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://himanshugangwar0509.medium.com/)
 
-## 📊 GitHub Stats
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
 ![Himanshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zenitsu0509&show_icons=true&theme=radical)
 
