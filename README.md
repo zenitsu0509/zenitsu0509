@@ -1,6 +1,8 @@
-# Hi there! 👋 I'm Himanshu Gangwar
-<img src="https://github.com/zenitsu0509/DeepVisionModels/blob/5dcd9ce0bd81c474ebf863978817d17076348973/assets/Screenshot%202024-12-03%20201700.png" width="1000" height="250">
-<br/>
+
+<img src="https://github.com/zenitsu0509/DeepVisionModels/blob/e0f07c42adc06b9949b8b13b30f14dacfe36f80c/assets/Screenshot%202024-12-10%20122957.png" width="1000" height="250">
+
+
+<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="35px"> I'm Himanshu Gangwar</h1>
 
 <img align="right" alt="coding" width="400"  src="https://github.com/zenitsu0509/DeepVisionModels/blob/fe20492aa972cc2ff4d89bd2282bed2e9543e248/assets/boy_coding.jpeg">
 
@@ -11,7 +13,7 @@
 
 - 🌱 I’m currently learning about Neural Networks and Deep Learning concepts.
   
-- 💞️ I’m looking to collaborate on my projects, especially on movie recommendation and others too.
+- 💞️ I’m looking to collaborate on my projects
 
 - 📫 How to reach me on <a href="https://www.instagram.com/sanatani.himanshu.gangwar.07/">Instagram</a>
   
