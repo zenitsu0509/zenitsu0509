@@ -7,7 +7,7 @@
 
 <br/>
 
-<img align="right" alt="coding" width="500" height="300"  src="https://github.com/zenitsu0509/DeepVisionModels/blob/d15373c78cbf7e679d1b40372bbee4c323fec6bb/assets/zenitsu_gif.gif">
+<img align="right" alt="coding" width="425" height="250"  src="https://github.com/zenitsu0509/DeepVisionModels/blob/d15373c78cbf7e679d1b40372bbee4c323fec6bb/assets/zenitsu_gif.gif">
 
 
 
