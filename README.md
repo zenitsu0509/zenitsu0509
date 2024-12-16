@@ -1,7 +1,7 @@
 
 <img src="https://github.com/zenitsu0509/DeepVisionModels/blob/e0f07c42adc06b9949b8b13b30f14dacfe36f80c/assets/Screenshot%202024-12-10%20122957.png" width="950" height="250" align="center">
 
-
+<img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp">
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="35px"> I'm Himanshu Gangwar</h1>
 <h3 align="center">A Passionate Ai developer | Software Engineer Enthusiast</h3>
 
@@ -22,7 +22,7 @@
 - 🌍 From **India**
 
   <br/>
-
+<img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp">
 
 
 ## 🌐 Socials:
@@ -42,6 +42,9 @@
 ## 💻 Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zenitsu0509&layout=compact&theme=radical)
+
+<img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp">
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zenitsu0509/zenitsu0509/output/github-snake-dark.svg" />
