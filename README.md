@@ -1,5 +1,5 @@
 
-<img src="https://github.com/zenitsu0509/DeepVisionModels/blob/02e33722c441232bd1bfae022d84850b72c26824/assets/Purple%20and%20Black%20Simple%20Coming%20Soon%20Banner%20(3).png" width="1000" height="450" align="center">
+<img src="https://github.com/zenitsu0509/DeepVisionModels/blob/731efdeb3951d040bb7d2fa22c53065fb8493a54/assets/new%20banner%20zen.png" align="center">
 
 <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp">
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="35px"> I'm Himanshu Gangwar</h1>
