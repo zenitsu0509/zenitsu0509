@@ -1,4 +1,3 @@
-
 <img src="https://github.com/zenitsu0509/DeepVisionModels/blob/731efdeb3951d040bb7d2fa22c53065fb8493a54/assets/new%20banner%20zen.png" align="center">
 
 <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp">
@@ -8,7 +7,6 @@
 <br/>
 
 <img align="right" alt="coding" width="425" height="250"  src="https://github.com/zenitsu0509/DeepVisionModels/blob/d15373c78cbf7e679d1b40372bbee4c323fec6bb/assets/zenitsu_gif.gif">
-
 
 
 - 👀 I’m interested in Deep Learning, Artificial Intelligence, GenAI, and LLMs
