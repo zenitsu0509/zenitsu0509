@@ -6,8 +6,7 @@
 
 <br/>
 
-<img align="right" alt="coding" width="425" height="250"  src="https://github.com/zenitsu0509/DeepVisionModels/blob/d15373c78cbf7e679d1b40372bbee4c323fec6bb/assets/zenitsu_gif.gif">
-
+<img align="right" alt="coding" width="425" height="250"  src="https://github.com/zenitsu0509/Deep_learning/blob/224b71ef81d4dad2660221032c0738ae65e65e14/diabetes_nn/ezgif-66b09fb5038b04b5.gif">
 
 - 👀 I'm interested in Deep Learning, Artificial Intelligence, GenAI, and LLMs  
   
